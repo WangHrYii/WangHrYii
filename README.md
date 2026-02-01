@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likyoo" alt="likyoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wanghryii" alt="wanghryii" /> </p>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
@@ -15,6 +15,6 @@
   2. I once won the TOP3 in the Tianzhi Cup Visible Light Building Change Detection Track
   3. I once won the TOP2 in the RSIPAC 2023 Remote Sensing Innovative Application Track
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wanghryii/wanghryii/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wanghryii/wanghryii/blob/output/github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
