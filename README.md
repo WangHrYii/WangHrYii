@@ -6,27 +6,16 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ruby/ruby-icon.svg" alt="ruby" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <!-- 左侧内容，可以是任何你想放的内容 -->
-    <span></span>
-    <!-- GitHub 统计图像 -->
-    <img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=wanghryii&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="wanghryii" />
-    <!-- 右侧内容，也可以是任何你想放的内容 -->
-    <span></span>
-  </div>
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-greatv.vercel.app/api?username=wanghryii&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="wanghryii" /></p>
 
 - 👋 Hi, I’m WangHaoran
-- 👀 I’m interested in Multi-Modal, MLLM and Agents
+- 👀 I’m interested in Multi-Modal, MLLM and <a href="https://cangling-agent.github.io" target="_blank">Agents</a>
 - 📫 How to reach me: wanghaoran23@mails.ucas.ac.cn
 - ⚡ I’m a data contest enthusiast.
   1. I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation Track.
