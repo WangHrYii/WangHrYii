@@ -23,5 +23,6 @@
   3. I once won the TOP2 in the RSIPAC 2023 Remote Sensing Innovative Application Track
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wanghryii/wanghryii/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wanghryii/wanghryii/blob/output/github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
