@@ -10,13 +10,23 @@
   <img src="https://github-readme-stats-greatv.vercel.app/api?username=wanghryii&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="wanghryii" />
 </p>
 
-- 👋 Hi, I’m Haoran Wang, visit my <a href="https://wanghryii.github.io" target="_blank">Personal Page</a>
-- 👀 I’m interested in Multi-Modal, MLLM and <a href="https://cangling-agent.github.io" target="_blank">Agents</a>
-- 📫 How to reach me: wanghaoran23@mails.ucas.ac.cn
-- ⚡ I’m a data contest enthusiast.
-  1. I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation Track.
-  2. I once won the TOP3 in the Tianzhi Cup Visible Light Building Change Detection Track
-  3. I once won the TOP2 in the RSIPAC 2023 Remote Sensing Innovative Application Track
+### 👨‍💻 About Me
+- 🎓 Ph.D. Candidate at **Aerospace Information Research Institute, CAS**.
+- 🔭 Focusing on **Multimodal Large Language Models (MLLMs)**, **Remote Sensing Intelligent Agents**, and **AI for Science**.
+- 🚀 Currently working on adaptive collaboration frameworks like **SimCRAFT** for Earth Observation tasks.
+- ⚡ **Data Contest Enthusiast**:
+  - 🥈 **TOP 2** - RSIPAC 2022 & 2023 Remote Sensing Tracks.
+  - 🥉 **TOP 3** - Tianzhi Cup Visible Light Building Change Detection.
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://wanghryii.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Page-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:wanghaoran23@mails.ucas.ac.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wanghryii/wanghryii/blob/output/github-snake.svg" />
